@@ -1,0 +1,2 @@
+# Christmass-Gadget-using-Arduino
+The application has four operating modes.   In the first mode Time the display shows the number of seconds since the device has been reset.   In the second mode Temp, the display shows the value of the temperature sensor (possibly in Celsius degrees).   In the third mode Angle, the display shows the values coming from the potentiometer and usess the step motor.   In the fourth mode Christmas :  the buzzer starts to play a Christmas tune (for example, Jingle Bells); the display shows the Christmas date: 25:12
